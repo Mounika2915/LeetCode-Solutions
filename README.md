@@ -24,10 +24,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
