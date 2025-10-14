@@ -26,11 +26,13 @@
 | ------- |
 | [0290-word-pattern](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
