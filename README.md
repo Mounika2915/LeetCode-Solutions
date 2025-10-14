@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+## Array
+|  |
+| ------- |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 <!---LeetCode Topics End-->
