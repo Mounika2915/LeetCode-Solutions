@@ -32,6 +32,7 @@
 | ------- |
 | [0290-word-pattern](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0742-to-lower-case](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Greedy
 |  |
