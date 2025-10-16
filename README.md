@@ -28,6 +28,7 @@
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
 |  |
 | ------- |
@@ -40,9 +41,11 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Array
 |  |
 | ------- |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Counting
@@ -53,4 +56,8 @@
 |  |
 | ------- |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+## Math
+|  |
+| ------- |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 <!---LeetCode Topics End-->
