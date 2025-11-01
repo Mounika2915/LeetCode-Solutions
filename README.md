@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bit Manipulation
 |  |
