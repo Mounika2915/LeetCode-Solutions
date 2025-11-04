@@ -61,6 +61,7 @@
 | [0965-unique-email-addresses](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0965-unique-email-addresses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-alternating-groups-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
