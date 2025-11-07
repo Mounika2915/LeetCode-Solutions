@@ -7,6 +7,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
@@ -144,9 +145,18 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
