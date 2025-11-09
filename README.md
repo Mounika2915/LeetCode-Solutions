@@ -72,6 +72,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0605-can-place-flowers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -160,9 +161,14 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
