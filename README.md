@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -73,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
