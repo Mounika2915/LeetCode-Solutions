@@ -62,6 +62,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
@@ -99,6 +101,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Binary Search
 |  |
 | ------- |
