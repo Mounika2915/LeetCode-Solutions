@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
@@ -80,6 +81,7 @@
 | [0041-first-missing-positive](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0303-range-sum-query-immutable](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0605-can-place-flowers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -113,6 +115,7 @@
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Backtracking
