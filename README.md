@@ -58,6 +58,7 @@
 | [0874-backspace-string-compare](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0965-unique-email-addresses) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Backtracking
