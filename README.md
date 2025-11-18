@@ -6,6 +6,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0883-car-fleet) |
@@ -191,6 +192,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0937-online-stock-span](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [2625-increment-submatrices-by-one](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
