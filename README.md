@@ -108,6 +108,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2625-increment-submatrices-by-one](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -174,12 +175,14 @@
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
