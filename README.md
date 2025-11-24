@@ -24,12 +24,14 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Database
@@ -161,6 +164,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
