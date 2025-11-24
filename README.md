@@ -25,11 +25,13 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Tree
 |  |
@@ -37,6 +39,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Database
 |  |
 | ------- |
