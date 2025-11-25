@@ -60,6 +60,7 @@
 | [0782-jewels-and-stones](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0965-unique-email-addresses) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
