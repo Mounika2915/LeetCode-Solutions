@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -158,6 +159,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
