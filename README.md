@@ -29,6 +29,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
