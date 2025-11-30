@@ -66,6 +66,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0965-unique-email-addresses) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -134,6 +135,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1590-make-sum-divisible-by-p](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1590-make-sum-divisible-by-p](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
