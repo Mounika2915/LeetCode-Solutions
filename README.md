@@ -104,6 +104,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -138,6 +139,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -165,6 +167,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Math
 |  |
@@ -253,6 +256,7 @@
 | [0883-car-fleet](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Design
 |  |
