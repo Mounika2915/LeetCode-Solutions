@@ -135,6 +135,7 @@
 | [0965-unique-email-addresses](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1046-last-stone-weight](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
