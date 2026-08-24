@@ -133,6 +133,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0965-unique-email-addresses) |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0983-validate-stack-sequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -263,6 +265,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0883-car-fleet](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -291,11 +294,13 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -330,4 +335,16 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
