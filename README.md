@@ -147,6 +147,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2625-increment-submatrices-by-one](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -241,6 +242,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
