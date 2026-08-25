@@ -237,6 +237,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -352,5 +353,6 @@
 ## Linked List
 |  |
 | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
