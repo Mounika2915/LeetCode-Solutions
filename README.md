@@ -137,6 +137,7 @@
 | [0965-unique-email-addresses](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0965-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0983-validate-stack-sequences](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0983-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -222,6 +223,7 @@
 | [0100-same-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Enumeration
 |  |
@@ -328,6 +330,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Queue
