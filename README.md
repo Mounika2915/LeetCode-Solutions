@@ -39,6 +39,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
@@ -131,6 +132,7 @@
 | [0735-asteroid-collision](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0883-car-fleet](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -177,6 +179,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Math
@@ -223,6 +226,7 @@
 | [0100-same-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Enumeration
@@ -305,6 +309,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -330,6 +335,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -360,4 +366,16 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
