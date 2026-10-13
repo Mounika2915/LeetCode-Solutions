@@ -39,6 +39,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -226,6 +227,7 @@
 | [0100-same-tree](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0743-network-delay-time](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -377,5 +380,14 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0778-swim-in-rising-water) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Mounika2915/LeetCode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
